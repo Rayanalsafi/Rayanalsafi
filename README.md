@@ -7,7 +7,7 @@ Computer Engineering | Data Analyst
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -19,3 +19,5 @@ Computer Engineering | Data Analyst
 - 🚀 Capstone project: Autonomous drone surveillance system using dual YOLOv8 models
 - 📜 TVTC-accredited certifications in SQL, Python, and Power BI & Excel
 - 🌱 Currently exploring data analytics tools and building hands-on projects
+
+</div>
